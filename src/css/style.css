@@ -99,7 +99,7 @@ li:last-child
     margin-right: 76px;
 }
 
-.section-discription_icon_box img: :last-child
+.section-discription_icon_box img :last-child
 {
     margin-right: 0px;
 }
